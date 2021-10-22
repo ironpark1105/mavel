@@ -115,13 +115,13 @@
       width: 100%;
   }
   .swiper-button-prev{
-    --swiper-theme-color: #ec1d25;
+    --swiper-theme-color: #ffffff;
   }
   .swiper-button-next{
-    --swiper-theme-color: #ec1d25;
+    --swiper-theme-color: #ffffff;
   }
   .swiper-pagination-bullet-active{
-    --swiper-theme-color: #ec1d25;
+    --swiper-theme-color: #ffffff;
   }
 
   footer{
